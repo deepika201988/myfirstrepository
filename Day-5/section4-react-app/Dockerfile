@@ -20,5 +20,5 @@ RUN npm audit fix --force
 # npm install
 # npm start
 
-CMD [ "npm","start" ]
+CMD [ "npm", "start" ]
 
