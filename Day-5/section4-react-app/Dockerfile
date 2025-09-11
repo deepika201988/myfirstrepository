@@ -11,6 +11,8 @@ RUN apt update && apt install npm -y
 
 RUN npm install
 
+RUN npm audit fix --force
+
 # reactpp folder
 # data copy host to container
 # apt update
