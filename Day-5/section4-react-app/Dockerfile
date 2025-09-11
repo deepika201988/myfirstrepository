@@ -13,6 +13,8 @@ RUN npm install
 
 RUN npm audit fix --force
 
+RUN npm install postcss@^8.4.31 --save
+
 # reactpp folder
 # data copy host to container
 # apt update
