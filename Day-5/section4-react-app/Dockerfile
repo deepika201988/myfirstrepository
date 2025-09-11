@@ -18,5 +18,5 @@ RUN npm install
 # npm install
 # npm start
 
-# CMD [ "npm","start" ]
+CMD [ "npm","start" ]
 
