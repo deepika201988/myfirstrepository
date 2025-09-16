@@ -70,4 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-hello
+https://srinivasgopi@dev.azure.com/srinivasgopi/Automation-b1/_git/Automation-Batch-1
+
+ git remote set-url origin https://github.com/deepika201988/myfirstrepository.git
+
+ git remote -v
+ git branch
+ git push -u origin Day-5
